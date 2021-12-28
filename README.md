@@ -12,3 +12,5 @@ This is a Github repo for the [Bayesian instrumental variable analysis paper](ht
 - [Xuyang Lu]()
 
   Dr. Xuyang Lu got his PhD degree from the Department of Biostatistics, UCLA under the supervision of Dr. Gang Li. He joined the [Genentech](https://www.gene.com/) after his graduation and stayed there for 7 years (2014-2021). In 2021, Dr. Lu went back to China and joined [Adlai Nortye Biopharma Co., Ltd.](https://en.adlainortye.com/) as a senior director.
+  
+  His PhD dissertation focuses on building Bayesian models and developing [Markov Chain Monte Carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) algorithms for [instrumental variable analysis](https://en.wikipedia.org/wiki/Instrumental_variables_estimation) in causal inference with time-to-event data. It is a poineering work in the related field to deal with time-to-event data with all four types of censoring within the framework of two stage least square estimation.
