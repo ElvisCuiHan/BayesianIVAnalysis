@@ -20,12 +20,12 @@ This is a Github repo for the [Bayesian instrumental variable analysis paper](ht
 ```diff
 ! *parametric IV model*:
 ``` 
-this folder contains two files, `IV_MH.R` and `IV_example.R`. They implement the parametric Bayesian IV model proposed in [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314427/) published in *Statistics in Medicine*.
+This folder contains two files, `IV_MH.R` and `IV_example.R`. They implement the parametric Bayesian IV model proposed in [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314427/) published in *Statistics in Medicine*.
 ```diff
 ! *semiparametric IV model _ ARIC example*:
 ``` 
-this folder corresponds to [section 4.4 of Dr. Lu's PhD dissertation](https://escholarship.org/uc/item/8223z6fp).
+This folder corresponds to [section 4.4 of Dr. Lu's PhD dissertation](https://escholarship.org/uc/item/8223z6fp).
 ```diff
 ! *semiparametric IV model _ simulation*: 
 ``` 
-this folder contains codes to reproduce [section 4.3 of Dr. Lu's PhD dissertation](https://escholarship.org/uc/item/8223z6fp).
+This folder contains codes to reproduce [section 4.3 of Dr. Lu's PhD dissertation](https://escholarship.org/uc/item/8223z6fp).
