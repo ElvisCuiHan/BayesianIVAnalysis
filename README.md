@@ -1,5 +1,5 @@
 # Bayesian Instrumental Variable Analysis
-This is a Github repo for the [Bayesian instrumental variable analysis paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314427/) and its non-parametric Bayesian version (unpublished dissertation) written by Dr. Xuyang Lu and Dr. Gang Li.
+This is a Github repo for the [Bayesian instrumental variable analysis paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314427/) and its non-parametric Bayesian version (unpublished dissertation) written by a group of researchers at Department of Biostatistics, UCLA.
 
 ## About the authors
 
