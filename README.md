@@ -16,6 +16,7 @@ This is a Github repo for the [Bayesian instrumental variable analysis paper](ht
   His PhD dissertation focuses on building Bayesian models and developing [Markov Chain Monte Carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) algorithms for [instrumental variable analysis](https://en.wikipedia.org/wiki/Instrumental_variables_estimation) in causal inference with time-to-event data. It is a poineering work in the related field to deal with time-to-event data with all four types of censoring within the framework of two stage least square estimation.
   
 - [Elvis Han Cui](https://elviscuihan.github.io/)
+
   Elvis Han Cui is a PhD student at the [Department of Biostatistics, UCLA](https://www.biostat.ucla.edu/). His research interests include survival analysis, single-cell sequencing data analysis, topics in optimal design, few-shot learning tasks, and instrumental variable analysis.  He is currently serving as a Graduate Student Researcher at [Johnson Comprehensive Cancer Center](https://cancer.ucla.edu/). 
 
 ## Directories and Files
