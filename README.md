@@ -17,7 +17,7 @@ This is a Github repo for the [Bayesian instrumental variable analysis paper](ht
   
 - [Elvis Han Cui](https://elviscuihan.github.io/)
 
-  Elvis Han Cui is a PhD student at the [Department of Biostatistics, UCLA](https://www.biostat.ucla.edu/). His research interests include survival analysis, single-cell sequencing data analysis, topics in optimal design, few-shot learning tasks, and instrumental variable analysis.  He is currently serving as a Graduate Student Researcher at [Johnson Comprehensive Cancer Center](https://cancer.ucla.edu/). 
+  Elvis Han Cui is a PhD candidate at the [Department of Biostatistics, UCLA](https://www.biostat.ucla.edu/). His research interests include topics in optimal design, survival analysis, single-cell sequencing data analysis, few-shot learning tasks, and instrumental variable analysis.  He is currently serving as a Graduate Student Researcher at [Johnson Comprehensive Cancer Center](https://cancer.ucla.edu/). 
 
 ## Directories and Files
 
