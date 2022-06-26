@@ -17,7 +17,7 @@ This is a Github repo for the [Bayesian instrumental variable analysis paper](ht
   
 - [Elvis Han Cui](https://elviscuihan.github.io/)
 
-  Elvis Han Cui is a PhD candidate at the [Department of Biostatistics, UCLA](https://www.biostat.ucla.edu/). His research interests include topics in optimal design, survival analysis, single-cell sequencing data analysis, few-shot learning tasks, and instrumental variable analysis.  He is currently serving as a Graduate Student Researcher at [Johnson Comprehensive Cancer Center](https://cancer.ucla.edu/). 
+  Elvis Han Cui is a PhD candidate at the [Department of Biostatistics, UCLA](https://www.biostat.ucla.edu/) under the supervision of [Dr. Weng Kee Wong](https://ph.ucla.edu/faculty/wong) and Dr. Gang Li (co-advisor). His research interests include topics in optimal design, survival analysis, single-cell sequencing data analysis, few-shot learning tasks, and instrumental variable analysis.  He is currently serving as a Graduate Student Researcher at [Johnson Comprehensive Cancer Center](https://cancer.ucla.edu/) developing statistical methods for handling doubly interval-censored time-to-event data. 
 
 ## Directories and Files
 
@@ -28,7 +28,7 @@ This folder contains two files, `IV_MH.R` and `IV_example.R`. They implement the
 ```diff
 - DPMIV_UKB
 ``` 
-This folder contains codes and the [UKBiobank](https://www.ukbiobank.ac.uk/) data for DPMIV analysis.
+This folder contains codes and the [UK Biobank](https://www.ukbiobank.ac.uk/) data for DPMIV analysis.
 ```diff
 - DPMIV_Analysis
 ``` 
